@@ -1,0 +1,16 @@
+{
+"companyName": "T J Coster Fine Arts",
+"productName": "Museum Ypenburg",
+"productVersion": "1.0",
+"dataUrl": "MuseumYpenburg-WebGL.data.unityweb",
+"wasmCodeUrl": "MuseumYpenburg-WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "MuseumYpenburg-WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#5C595A",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
